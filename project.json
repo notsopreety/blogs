@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "title": "AI Weather App",
+      "description": "A sleek and modern weather application built with HTML, Tailwind CSS, and JavaScript. This app provides real-time weather data, an AI-generated summary, and a responsive design with light/dark mode support.",
+      "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/ai-weather-app.png",
+      "tags": ["AI", "HTML", "Tailwind"],
+      "githubUrl": "https://github.com/notsopreety/weather-app",
+      "liveUrl": "https://ai-weather-app-phi.vercel.app"
+    },
+    {
+      "id": 2,
+      "title": "Nepali News Scraper",
+      "description": "A powerful Node.js package to scrape news from popular Nepali news portals including Kathmandu Post and Kantipur (ekantipur.com). This package provides a simple and efficient way to access news articles programmatically.",
+      "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/nepali-news-scraper.jpg",
+      "tags": ["Scraper", "Node.js", "Package"],
+      "githubUrl": "https://github.com/notsopreety/nepali-news-scraper",
+      "liveUrl": "https://www.npmjs.com/package/nepali-news-scraper"
+    },
+    {
+      "id": 3,
+      "title": "Telegram Web Report",
+      "description": "This form allows users to submit reports via a web interface. The bot sends the submitted reports, along with any attached proof, to a specified Telegram chat.",
+      "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/tg-report-form.png",
+      "tags": ["Node.js", "Telegram", "HTML"],
+      "githubUrl": "https://github.com/notsopreety/tg-report",
+      "liveUrl": "https://tg-report.onrender.com/"
+    },
+    {
+      "id": 4,
+      "title": "AI Tic Tac Toe 🎮",
+      "description": "A modern, intelligent Tic Tac Toe game featuring a trash-talking AI opponent with dynamic commentary and voice synthesis.",
+      "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/ai-ttt.png",
+      "tags": ["AI", "HTML", "Games"],
+      "githubUrl": "https://github.com/notsopreety/ai-tictactoe",
+      "liveUrl": "https://tictactoebysamir.vercel.app"
+    },
+    {
+      "id": 5,
+      "title": "Telegram Gemini Bot",
+      "description": "A versatile Telegram bot powered by Google's Gemini-2.0-Flash AI model. This bot can interact with audio, generate and compile code, create and edit images, perform deep thinking, analyze general and YouTube videos, make API calls, and operate seamlessly within Telegram.",
+      "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/telegram-gemini-bot.png",
+      "tags": ["Node.js", "AI", "Telegram"],
+      "githubUrl": "https://github.com/notsopreety/telegram-gemini-bot",
+      "liveUrl": "https://github.com/notsopreety/telegram-gemini-bot"
+    },
+    {
+      "id": 6,
+      "title": "Termux Google Cloud SDK",
+      "description": "A Bash script to automate the installation and setup of Google Cloud SDK on Termux, enabling users to access Google Cloud services directly from their mobile devices.",
+      "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/termux-gcloud.jpg",
+      "tags": ["Bash", "Termux", "Linux"],
+      "githubUrl": "https://github.com/notsopreety/gcloud-termux",
+      "liveUrl": "https://raw.githubusercontent.com/notsopreety/gcloud-termux/refs/heads/main/screenshot.png"
+    }
+]
