@@ -3,6 +3,7 @@
     "id": 1,
     "title": "Building Efficient RESTful APIs with Node.js and Express",
     "excerpt": "Learn how to create scalable and efficient RESTful APIs using Node.js and Express with best practices for performance and security.",
+    "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/building-efficient-restful-apis.png",
     "date": "May 15, 2023",
     "readTime": "8 min read",
     "slug": "building-efficient-restful-apis"
