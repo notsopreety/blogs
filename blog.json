@@ -1,5 +1,23 @@
 [
   {
+    "id": 9,
+    "title": "Windows 11's Recall AI: Revolutionizing How We Search Our Digital Past",
+    "excerpt": "Microsoft's Recall AI for Windows 11 Copilot+ PCs introduces a visual timeline to search your digital history, transforming how you find past content.",
+    "image": "https://raw.githubusercontent.com/your-repo/blogs/main/public/windows-11-recall-ai.jpg",
+    "date": "April 29, 2025",
+    "readTime": "12 min read",
+    "slug": "windows-11-recall-ai"
+  },
+  {
+    "id": 8,
+    "title": "WhatsApp Web to Add Voice and Video Calling: A New Era of Communication",
+    "excerpt": "WhatsApp Web is set to introduce voice and video calling features, enhancing the user experience and making it easier to connect with friends and family.",
+    "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/whatsapp-web-to-add-voice-and-video-calling.jpg",
+    "date": "April 29, 2025",
+    "readTime": "10 min read",
+    "slug": "whatsapp-web-to-add-voice-and-video-calling"
+  },
+  {
     "id": 7,
     "title": "Amazon Launches First Project Kuiper Satellites: A New Challenger in the Satellite Internet Race",
     "excerpt": "Amazon's Project Kuiper has successfully launched its first two satellites, marking a significant step in",
