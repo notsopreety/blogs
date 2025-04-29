@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Building Efficient RESTful APIs with Node.js and Express",
     "excerpt": "Learn how to create scalable and efficient RESTful APIs using Node.js and Express with best practices for performance and security.",
-    "image": "/building-efficient-restful-apis.png",
+    "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/building-efficient-restful-apis.png",
     "date": "May 15, 2023",
     "readTime": "8 min read",
     "slug": "building-efficient-restful-apis"
@@ -12,7 +12,7 @@
     "id": 2,
     "title": "MongoDB Data Modeling: Best Practices for MERN Stack Applications",
     "excerpt": "Discover the best practices for designing MongoDB schemas that scale well and perform efficiently in MERN stack applications.",
-    "image": "/mongodb-data-modeling-best-practices.webp",
+    "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/mongodb-data-modeling-best-practices.webp",
     "date": "June 22, 2023",
     "readTime": "10 min read",
     "slug": "mongodb-data-modeling-best-practices"
@@ -21,7 +21,7 @@
     "id": 3,
     "title": "Authentication and Authorization in Node.js Applications",
     "excerpt": "A comprehensive guide to implementing secure authentication and authorization in your Node.js applications using JWT and best practices.",
-    "image": "/authentication-authorization-nodejs.webp",
+    "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/authentication-authorization-nodejs.webp",
     "date": "July 10, 2023",
     "readTime": "12 min read",
     "slug": "authentication-authorization-nodejs"
@@ -30,7 +30,7 @@
     "id": 4,
     "title": "Optimizing MongoDB Performance for High-Traffic Applications",
     "excerpt": "Learn advanced techniques for optimizing MongoDB performance in high-traffic applications, including indexing strategies and query optimization.",
-    "image": "/optimizing-mongodb-performance.png",
+    "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/optimizing-mongodb-performance.png",
     "date": "August 5, 2023",
     "readTime": "9 min read",
     "slug": "optimizing-mongodb-performance"
@@ -39,7 +39,7 @@
     "id": 5,
     "title": "Building Real-time Applications with Socket.io and Node.js",
     "excerpt": "Discover how to create responsive real-time applications using Socket.io and Node.js for features like live chat, notifications, and collaborative editing.",
-    "image": "/real-time-applications-socketio.webp",
+    "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/real-time-applications-socketio.webp",
     "date": "September 18, 2023",
     "readTime": "11 min read",
     "slug": "real-time-applications-socketio"
@@ -48,7 +48,7 @@
     "id": 6,
     "title": "Serverless Architecture with AWS Lambda and Node.js",
     "excerpt": "Explore the benefits and implementation details of serverless architecture using AWS Lambda and Node.js for scalable and cost-effective applications.",
-    "image": "/serverless-architecture-aws-lambda.png",
+    "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/serverless-architecture-aws-lambda.png",
     "date": "October 30, 2023",
     "readTime": "10 min read",
     "slug": "serverless-architecture-aws-lambda"
