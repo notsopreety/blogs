@@ -1,17 +1,5 @@
 [
   {
-    "id": 7,
-    "title": "Test",
-    "description": "Test",
-    "image": "https://www.pymnts.com/wp-content/uploads/2025/05/Skype-video-Microsoft.png?w=768",
-    "tags": [
-      "AI",
-      "ML"
-    ],
-    "githubUrl": "https://www.pymnts.com/wp-content/uploads/2025/05/Skype-video-Microsoft.png?w=768",
-    "liveUrl": "https://www.pymnts.com/wp-content/uploads/2025/05/Skype-video-Microsoft.png?w=768"
-  },
-  {
     "id": 1,
     "title": "AI Weather App",
     "description": "A sleek and modern weather application built with HTML, Tailwind CSS, and JavaScript. This app provides real-time weather data, an AI-generated summary, and a responsive design with light/dark mode support.",
@@ -52,7 +40,7 @@
   },
   {
     "id": 4,
-    "title": "AI Tic Tac Toe ð®",
+    "title": "AI Tic Tac Toe Ã°ÂÂÂ®",
     "description": "A modern, intelligent Tic Tac Toe game featuring a trash-talking AI opponent with dynamic commentary and voice synthesis.",
     "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/ai-ttt.png",
     "tags": [
