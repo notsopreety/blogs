@@ -1,14 +1,5 @@
 [
   {
-    "id": 10,
-    "title": "Test blog only",
-    "excerpt": "this is test one",
-    "image": "https://raw.githubusercontent.com/notsopreety/blogs/main/public/1746881530335-photo-5240447210720719856-y.jpg",
-    "date": "May 10, 2025",
-    "readTime": "5 min read",
-    "slug": "test-blog-only"
-  },
-  {
     "id": 9,
     "title": "Windows 11's Recall AI: Revolutionizing How We Search Our Digital Past",
     "excerpt": "Microsoft's Recall AI for Windows 11 Copilot+ PCs introduces a visual timeline to search your digital history, transforming how you find past content.",
