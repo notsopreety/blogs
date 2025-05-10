@@ -1,14 +1,5 @@
 [
   {
-    "id": 10,
-    "title": "Test blog only",
-    "excerpt": "this is test excerpt",
-    "image": "https://www.pymnts.com/wp-content/uploads/2025/05/Skype-video-Microsoft.png?w=768",
-    "date": "May 10, 2025",
-    "readTime": "5 min read",
-    "slug": "test-blog-only"
-  },
-  {
     "id": 9,
     "title": "Windows 11's Recall AI: Revolutionizing How We Search Our Digital Past",
     "excerpt": "Microsoft's Recall AI for Windows 11 Copilot+ PCs introduces a visual timeline to search your digital history, transforming how you find past content.",
@@ -90,7 +81,7 @@
     "slug": "building-efficient-restful-apis"
   },
   {
-    "id": 11,
+    "id": 10,
     "title": "This is test",
     "excerpt": "agrsdtgu,hkhfgfhjl",
     "image": "https://www.pymnts.com/wp-content/uploads/2025/05/Skype-video-Microsoft.png?w=768",
