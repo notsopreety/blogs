@@ -79,14 +79,5 @@
     "date": "May 15, 2023",
     "readTime": "8 min read",
     "slug": "building-efficient-restful-apis"
-  },
-  {
-    "id": 10,
-    "title": "Test blog only",
-    "excerpt": "this is test excerpt",
-    "image": "https://www.pymnts.com/wp-content/uploads/2025/05/Skype-video-Microsoft.png?w=768",
-    "date": "May 10, 2025",
-    "readTime": "5 min read",
-    "slug": "test-blog-only"
   }
 ]
