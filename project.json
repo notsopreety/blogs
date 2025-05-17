@@ -1,5 +1,20 @@
 [
   {
+    "id": 7,
+    "title": "llama — Terminal Chatbot using LLaMA 3.2 90B",
+    "description": "Lightweight CLI assistant powered by DeepInfra's LLaMA-3.2-90B-Vision-Instruct model.",
+    "image": "https://i.ibb.co/zTxP5jWg/03fb1a10ef158f8986c9778334c2af42.webp",
+    "tags": [
+      "ai",
+      "llama",
+      "bash",
+      "termux",
+      "linux"
+    ],
+    "githubUrl": "https://github.com/notsopreety/llama",
+    "liveUrl": "https://github.com/notsopreety/llama"
+  },
+  {
     "id": 1,
     "title": "AI Weather App",
     "description": "A sleek and modern weather application built with HTML, Tailwind CSS, and JavaScript. This app provides real-time weather data, an AI-generated summary, and a responsive design with light/dark mode support.",
@@ -40,7 +55,7 @@
   },
   {
     "id": 4,
-    "title": "AI Tic Tac Toe Ã°ÂÂÂ®",
+    "title": "AI Tic Tac Toe ÃÂ°ÃÂÃÂÃÂ®",
     "description": "A modern, intelligent Tic Tac Toe game featuring a trash-talking AI opponent with dynamic commentary and voice synthesis.",
     "image": "https://raw.githubusercontent.com/notsopreety/blogs/refs/heads/main/public/ai-ttt.png",
     "tags": [
